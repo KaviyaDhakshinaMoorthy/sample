@@ -1,3 +1,2 @@
-[{"employeeid":"1","customerId":"HUNGO","shipCity":"Graz","shipVia":8,"OrderDate":"1/9/1997"},
- {"employeeid":"2","customerId":"FRANS","shipCity":"Torino","shipVia":4,"OrderDate":"17/9/1997"}
+[{"employeeid":"1","customerId":"HUNGO","shipCity":"Graz","shipVia":8,"OrderDate":"1/9/1997"}
 ]
