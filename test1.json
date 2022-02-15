@@ -6,5 +6,5 @@
   {"companyID":"company_5","SelledID":"5a","SellerName":"ALFKI","SalesAmount":3000,"OrderDate":"1/8/1997"},
    {"companyID":"company_6","SelledID":"6a","SellerName":"ANTON","SalesAmount":6000,"OrderDate":"1/8/1997"},
  
-    {"companyID":"company_7","SelledID":"7a","SellerName":"VINET","SalesAmount":6000,"OrderDate":"1/8/1997"},
-]
+    {"companyID":"company_7","SelledID":"7a","SellerName":"VINET","SalesAmount":6000,"OrderDate":"1/8/1997"}
+
